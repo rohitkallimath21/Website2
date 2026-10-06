@@ -11,8 +11,7 @@ export const CV = {
   location: "Karnataka, India",
   email: "rohitkallimath21@gmail.com",
   phone: "+91 79754 98513",
-  cvUrl:
-    "https://customer-assets-39nsmqrw.emergentagent.net/job_portfolio-mouse/artifacts/zb6s95gx_Rohit%20Updated%20CV.docx",
+  cvUrl: "/rohit-updated-cv.pdf",
   summary:
     "Results-driven IT professional with 7+ years of experience in IT infrastructure, network administration, server management, ERP implementation, cybersecurity, technical support, IT operations and vendor management — across healthcare, IT services, automotive, consultancy and manufacturing environments.",
   stats: [
@@ -50,6 +49,7 @@ export const CV = {
         "Manage LAN/WAN, routing, switching, VPN, firewalls, internet connectivity and network security.",
         "Manage Atharva ERP, Tally Prime, Smart Office & Zoho apps; coordinate ERP implementation & customization.",
         "Manage CCTV, biometric attendance, printers, end-user systems and IT assets.",
+        "Manage IT vendors, AMCs and service contracts; coordinate procurement and issue resolution.",
         "Develop & maintain IT policies, SOPs, backups, cybersecurity practices and documentation.",
       ],
     },
@@ -68,7 +68,7 @@ export const CV = {
     {
       company: "Elite Motors · Small Array Consultant",
       place: "Bangalore",
-      title: "IT Consultant",
+      title: "Technical Support",
       period: "2023 — 2024",
       points: [
         "Provided IT/technical consultancy and end-user support for the client.",
@@ -116,7 +116,7 @@ export const CV = {
       title: "IT Admin",
       period: "2021 — 2022",
       points: [
-        "Provided IT consultancy for business systems and end-user requirements.",
+        "Provided IT support for business systems and end-user requirements.",
         "Handled hardware/software troubleshooting, system setup and technical support.",
         "Assisted with networking, peripherals, maintenance and daily IT operations.",
       ],
@@ -147,7 +147,7 @@ export const CV = {
       items: ["Zoho ERP", "Atharva ERP", "Tally Prime", "Saral GST · Smart Office", "Microsoft 365 · Zoho Workplace"],
     },
     {
-      group: "Ops & Support",
+      group: "Technical Support",
       items: ["Backup & DR", "Asset Management", "IT Procurement", "TeamViewer · AnyDesk", "SOPs & IT Policy"],
     },
   ],
